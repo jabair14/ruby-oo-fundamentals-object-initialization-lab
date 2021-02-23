@@ -5,7 +5,8 @@ class Dog
         @name=name
         @breed=breed 
     end
-
-
-    # binding.pry
 end
+
+# fido = Dog.new 
+
+binding.pry
